@@ -1,0 +1,7 @@
+typescript/node_modules
+processed_verbs
+.vscode
+cpp/objects/*
+cpp_revisit/sqlite3.o
+cpp_revisit/app.exe
+cpp/app.exe
